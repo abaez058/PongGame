@@ -49,7 +49,7 @@ Rendering occurs inside a custom `PongPanel` subclass that draws paddles, ball, 
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/PongGame.git
+git clone https://github.com/abaez058/PongGame.git
 cd PongGame
 
 # Compile the module
