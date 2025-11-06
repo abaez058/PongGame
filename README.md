@@ -4,7 +4,7 @@ A modern take on the classic **Pong** arcade game built in **Java Swing**.
 This project demonstrates GUI programming, event handling, and real-time game loops using core Java libraries.
 
 ---
-
+![Gameplay Screenshot](bd964958-d869-4049-beae-6e609b4e7bb5.png)
 ## 🎮 Features
 
 - Two-player **Pong gameplay**
